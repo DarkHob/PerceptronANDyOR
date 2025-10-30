@@ -7,9 +7,13 @@ Este proyecto implementa un **perceptrón bipolar (±1)** con una interfaz gráf
 ## 📂 Estructura del proyecto
 
 ├── perceptron_core.py # Lógica del perceptrón y clase GUI reutilizable
+
 ├── and_app.py # Ejecuta solo el modo AND
+
 ├── or_app.py # Ejecuta solo el modo OR
+
 ├── main.py # Versión integrada con pestañas AND / OR
+
 ├── requirements.txt # Dependencias del entorno
 
 ## ⚙️ Instalación
